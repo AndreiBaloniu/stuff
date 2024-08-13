@@ -1,0 +1,6 @@
+@MoviesApi_HostAddress = http://localhost:5107
+
+GET {{MoviesApi_HostAddress}}/people/
+Accept: application/json
+
+###
